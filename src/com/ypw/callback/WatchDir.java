@@ -1,8 +1,7 @@
-package com.ypw;
+package com.ypw.callback;
 
-import com.ypw.demo.CallBackable;
-import com.ypw.demo.CreateCallBack;
-import com.ypw.demo.CreateFileCallBack;
+import com.ypw.callback.demo.CallBackable;
+import com.ypw.callback.demo.CreateFileCallBack;
 
 import java.io.File;
 import java.io.IOException;

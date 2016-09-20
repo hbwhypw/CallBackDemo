@@ -1,4 +1,4 @@
-package com.ypw.MutiCallBack;
+package com.ypw.callback.MutiCallBack;
 
 /**
  * @Description: TODO 填写功能描述

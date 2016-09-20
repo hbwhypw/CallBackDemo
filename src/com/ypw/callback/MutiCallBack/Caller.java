@@ -1,4 +1,4 @@
-package com.ypw.MutiCallBack;
+package com.ypw.callback.MutiCallBack;
 
 import java.util.ArrayList;
 import java.util.List;

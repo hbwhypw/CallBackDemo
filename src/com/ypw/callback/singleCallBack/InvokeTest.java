@@ -1,4 +1,4 @@
-package com.ypw.singleCallBack;
+package com.ypw.callback.singleCallBack;
 
 /**
  * @Description: TODO 调用测试
