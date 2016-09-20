@@ -9,7 +9,7 @@ import com.ypw.proxy.proxyPattern.ToBuyTrainTicketProxy;
  * @author: hbwhypw
  * @date: 2016-09-20 22:38
  */
-public class ProxyPattern {
+public class ProxyPatternExample {
     public static void main(String[] args) {
         BuyTrainTicket buyTrainTicket = new ToBuyTrainTicketProxy();
 
